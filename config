@@ -1,0 +1,14 @@
+# Newsbeuter config file.
+# To be placed in ~/.newsbeuter or ~/.config/newsbeuter
+color	listfocus           white	blue   bold
+color	info                white	blue   bold
+#always-display-description	true
+#auto-reload			yes
+browser				firefox
+cleanup-on-quit			yes
+download-retries		10
+download-timeout		20
+refresh-on-startup		yes
+#reload-time			10
+download-path			~/Downloads
+max-downloads			2
